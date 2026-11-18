@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 357,
+    "left": 0,
+    "width": 656,
+    "height": 874,
+    "isRotated": true,
+    "originalWidth": 656,
+    "originalHeight": 1590
+  },
+  "imagePath": "image-targets/V414_luminance.jpg",
+  "metadata": null,
+  "name": "V414",
+  "resources": {
+    "originalImage": "V414_original.jpg",
+    "croppedImage": "V414_cropped.jpg",
+    "thumbnailImage": "V414_thumbnail.jpg",
+    "luminanceImage": "V414_luminance.jpg"
+  },
+  "created": 1790109856016,
+  "updated": 1790109856016
+}
